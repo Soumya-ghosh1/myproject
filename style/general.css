@@ -90,7 +90,7 @@ border-radius: 4px;
     
   }
   .background-img{
-    background-image: url(../photos/background.png);
+    background-image: url(../photos/background.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:fixed;
