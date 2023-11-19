@@ -63,6 +63,7 @@ border-radius: 4px;
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-position: center;
+    height: 100vh;
 
 }
 
@@ -80,6 +81,7 @@ border-radius: 4px;
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-position: center;
+    height: 100vh;
     
    
   }
