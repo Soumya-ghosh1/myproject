@@ -57,10 +57,27 @@ border-radius: 4px;
 }
 
 .background-img{
-    background-image: url(../photos/background.png);
+    background-image: url(../photos/background.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
     width: 100vh;
 
+}
+
+@media screen and (max-width: 500px){
+  .header{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 50px;
+    
+  }
+  .background-img{
+    background-image: url(../photos/background.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 100vh;
+  }
 }
